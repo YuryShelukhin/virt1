@@ -28,14 +28,14 @@
 
 <img src = "img/1-2-2.png" width = 60%>  
 
-Так как Docker по умолчанию не установлен, установим его самостоятельно. 
-`sudo apt install  podman-docker`
+Так как Docker по умолчанию не установлен, установим его самостоятельно.   
+`sudo apt install  podman-docker`  
 
 <img src = "img/1-2-3.png" width = 60%> 
 
 3-7. 
 
-<img src = "img/1-.png" width = 60%> 
+<img src = "img/1-3.png" width = 60%> 
 
 ---
 
